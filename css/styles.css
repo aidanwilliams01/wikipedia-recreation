@@ -1,7 +1,11 @@
-.sidebar {
-  float: left;
-}
-
 img.fp {
   float: left;
 }
+
+.sidebar {
+  background-color: lightgrey;
+}
+
+/* .sidebar2 {
+  float: left;
+} */
