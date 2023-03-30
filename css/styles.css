@@ -2,6 +2,31 @@ body {
   font-family: sans-serif;
 }
 
+/* .col-md-1 {
+  padding:2px;
+} */
+
+/* .column {
+  width:600px
+}
+
+.column2 {
+  width:4%
+}
+
+.column3 {
+  width:7%
+} */
+
+.test {
+  text-align: right;
+}
+
+.container-fluid {
+  padding-left:52px;
+  padding-right:52px;
+}
+
 .font1 {
   font-size:14px;
 }
@@ -26,6 +51,10 @@ body {
   font-size:12px;
 }
 
+h2 {
+  border: solid gray;
+}
+
 img.fp {
   float: left;
 }
@@ -37,6 +66,7 @@ img.fp {
 .sidebar {
   background-color: lightgrey;
 }
+
 
 /* .sidebar2 {
   float: left;
