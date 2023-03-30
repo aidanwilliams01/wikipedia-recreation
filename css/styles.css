@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .font1 {
   font-size:14px;
 }
@@ -10,8 +14,24 @@
   font-size:22.68px;
 }
 
+.font4 {
+  font-size:16.8px;
+}
+
+.font5 {
+  font-size:14px;
+}
+
+.font6 {
+  font-size:12px;
+}
+
 img.fp {
   float: left;
+}
+
+.jumbotron {
+  text-align: center;
 }
 
 .sidebar {
