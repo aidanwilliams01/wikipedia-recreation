@@ -18,6 +18,15 @@ body {
   width:7%
 } */
 
+.card {
+  margin-top: 7px;
+}
+
+.copyright {
+  padding-top: 50px;
+  padding-bottom: 82px;
+}
+
 .test {
   text-align: right;
 }
@@ -51,6 +60,10 @@ body {
   font-size:12px;
 }
 
+.gray {
+  background-color: lightgray;
+}
+
 h2 {
   border: solid gray;
 }
@@ -60,11 +73,25 @@ img.fp {
 }
 
 .jumbotron {
+  margin-bottom: 7px;
   text-align: center;
+}
+
+.picture {
+  background-color: mediumpurple;
 }
 
 .sidebar {
   background-color: lightgrey;
+  padding-right: 14px;
+  padding-left: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.top-bar {
+  margin-bottom: 30px;
+  padding-top: 8px;
 }
 
 
