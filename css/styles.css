@@ -2,6 +2,14 @@ body {
   font-family: sans-serif;
 }
 
+/* .bottomborder {
+  border-bottom: solid black;
+}
+
+.bottomborder p {
+  margin-bottom: 0px;
+} */
+
 /* .col-md-1 {
   padding:2px;
 } */
@@ -70,6 +78,12 @@ h2 {
 
 img.fp {
   float: left;
+  padding-right: 12.6px;
+}
+
+.logo {
+  width: 90%;
+  height: auto;
 }
 
 .jumbotron {
@@ -79,6 +93,14 @@ img.fp {
 
 .picture {
   background-color: mediumpurple;
+}
+
+/* .picture p {
+  text-align:center;
+} */
+
+.search {
+  border: solid gray;
 }
 
 .sidebar {
