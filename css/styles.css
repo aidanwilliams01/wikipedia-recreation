@@ -85,6 +85,16 @@ img.fp {
   padding-right: 12.6px;
 }
 
+img.left {
+  float: left;
+  padding-right: 12.6px;
+}
+
+img.right {
+  float: right;
+  padding-left: 12.6px;
+}
+
 .lightgreen {
   background-color: lightgreen;
 }
