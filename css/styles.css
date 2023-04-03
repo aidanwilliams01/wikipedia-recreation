@@ -44,6 +44,10 @@ body {
   padding-right:52px;
 }
 
+.fl {
+  background-color:lightpink;
+}
+
 .font1 {
   font-size:14px;
 }
@@ -79,6 +83,14 @@ h2 {
 img.fp {
   float: left;
   padding-right: 12.6px;
+}
+
+.lightgreen {
+  background-color: lightgreen;
+}
+
+.lightblue {
+  background-color: lightblue;
 }
 
 .logo {
